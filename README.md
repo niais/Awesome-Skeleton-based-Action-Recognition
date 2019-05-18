@@ -49,7 +49,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 ### arXiv papers
 
-This section only includes the last ten papers since 2018 in [arXiv.org](arXiv.org). Note that a[ll unpublished arXiv papers are not included into [the leaderboard of performance](#LeaderBoard).
+This section only includes the last ten papers since 2018 in [arXiv.org](https://arxiv.org/). Note that a[ll unpublished arXiv papers are not included into [the leaderboard of performance](#LeaderBoard).
 
 <!-- ### Survey -->
 
