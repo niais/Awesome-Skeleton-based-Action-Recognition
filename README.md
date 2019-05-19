@@ -4,6 +4,14 @@
 If you have any problems, suggestions or improvements, please submit the issue or PR.
 ```
 
+---
+
+- Other GITHUB Repos for Skeleton-based Action Recognition Papers
+  - [<https://github.com/XiaoCode-er/Skeleton-Based-Action-Recognition-Papers>](https://github.com/XiaoCode-er/Skeleton-Based-Action-Recognition-Papers)
+  - [<https://github.com/cagbal/Skeleton-Based-Action-Recognition-Papers-and-Notes>](https://github.com/cagbal/Skeleton-Based-Action-Recognition-Papers-and-Notes)
+
+---
+
 ## TODO
 
 - [ ] paper list
@@ -49,8 +57,9 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 ### arXiv papers
 
-This section only includes the last ten papers since 2018 in [arXiv.org](https://arxiv.org/). Note that a[ll unpublished arXiv papers are not included into [the leaderboard of performance](#LeaderBoard).
+This section only includes the last ten papers since 2018 in [arXiv.org](arXiv.org). Note that arXiv papers **without available codes** are not included into [the leaderboard of performance](#LeaderBoard).
 
+- Skeleton-Based Action Recognition with Synchronous Local and Non-local Spatio-temporal Learning and Frequency Attention [[paper](https://arxiv.org/pdf/1811.04237.pdf)]
 <!-- ### Survey -->
 
 ### 2019
