@@ -140,4 +140,4 @@ The section is being continually updated. Note that some values have superscript
 | 2019 | AS-GCN               | 86.8          | 94.2       |
 | 2019 | AGC-LSTM (Joint)     | 87.5          | 93.5       |
 | 2019 | AGC-LSTM (Part)      | 87.5          | 93.8       |
-| 2019 | AGC-LSTM(Joint&Part) | 89.2          | 95.0       |
+| 2019 | AGC-LSTM(Joint&Part) | **89.2**      | **95.0**   |
