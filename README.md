@@ -121,25 +121,24 @@ The section is being continually updated. Note that some values have superscript
 
 ### NTU-RGB+D
 
-| Year | Methods              | NTU-RGB+D |      |
-| ---- | -------------------- | --------- | ---- |
-|      |                      | CS        | CV   |
-| 2014 | Lie Group            | 50.1      | 52.8 |
-| 2015 | H-RNN                | 59.1      | 64.0 |
-| 2016 | Part-aware LSTM      | 62.9      | 70.3 |
-| 2016 | Trust Gate ST-LSTM   | 69.2      | 77.7 |
-| 2017 | Two-stream RNN       | 71.3      | 79.5 |
-| 2017 | STA-LSTM             | 73.4      | 81.2 |
-| 2017 | Ensemble TS-LSTM     | 74.6      | 81.3 |
-| 2017 | Visualization CNN    | 76.0      | 82.6 |
-| 2017 | C-CNN + MTLN         | 79.6      | 84.8 |
-| 2017 | Temporal Conv        | 74.3      | 83.1 |
-| 2017 | VA-LSTM              | 79.4      | 87.6 |
-| 2018 | ST-GCN               | 81.5      | 88.3 |
-| 2018 | DPRL                 | 83.5      | 89.8 |
-| 2018 | HCN                  | 86.5      | 91.1 |
-| 2018 | SR-TSL               | 84.8      | 92.4 |
-| 2019 | AS-GCN               | 86.8      | 94.2 |
-| 2019 | AGC-LSTM(Joint)      | 87.5      | 93.5 |
-| 2019 | AGC-LSTM (Part)     | 87.5      | 93.8 |
-| 2019 | AGC-LSTM(Joint&Part) | 89.2      | 95.0 |
+| Year | Methods              | Cross-Subject | Cross-View |
+| ---- | -------------------- | ------------- | ---------- |
+| 2014 | Lie Group            | 50.1          | 52.8       |
+| 2015 | H-RNN                | 59.1          | 64.0       |
+| 2016 | Part-aware LSTM      | 62.9          | 70.3       |
+| 2016 | Trust Gate ST-LSTM   | 69.2          | 77.7       |
+| 2017 | Two-stream RNN       | 71.3          | 79.5       |
+| 2017 | STA-LSTM             | 73.4          | 81.2       |
+| 2017 | Ensemble TS-LSTM     | 74.6          | 81.3       |
+| 2017 | Visualization CNN    | 76.0          | 82.6       |
+| 2017 | C-CNN + MTLN         | 79.6          | 84.8       |
+| 2017 | Temporal Conv        | 74.3          | 83.1       |
+| 2017 | VA-LSTM              | 79.4          | 87.6       |
+| 2018 | ST-GCN               | 81.5          | 88.3       |
+| 2018 | DPRL                 | 83.5          | 89.8       |
+| 2018 | HCN                  | 86.5          | 91.1       |
+| 2018 | SR-TSL               | 84.8          | 92.4       |
+| 2019 | AS-GCN               | 86.8          | 94.2       |
+| 2019 | AGC-LSTM (Joint)     | 87.5          | 93.5       |
+| 2019 | AGC-LSTM (Part)      | 87.5          | 93.8       |
+| 2019 | AGC-LSTM(Joint&Part) | 89.2          | 95.0       |
