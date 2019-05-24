@@ -122,7 +122,7 @@ The section is being continually updated. Note that some values have superscript
 ### NTU-RGB+D
 
 | Year | Methods              | Cross-Subject | Cross-View |
-| ---- | -------------------- | ------------- | ---------- |
+| ---- | -------------------- | :-----------: | :--------: |
 | 2014 | Lie Group            | 50.1          | 52.8       |
 | 2015 | H-RNN                | 59.1          | 64.0       |
 | 2016 | Part-aware LSTM      | 62.9          | 70.3       |
