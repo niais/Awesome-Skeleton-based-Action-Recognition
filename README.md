@@ -70,14 +70,13 @@ This section only includes the last ten papers since 2018 in [arXiv.org](arXiv.o
 
 ### 2018
 
-- Beyond Joints: Learning Representations from Primitive Geometries for Skeleton-based Action Recognition and Detection (***TIP 2018***)
+- Beyond Joints: Learning Representations from Primitive Geometries for Skeleton-based Action Recognition and Detection (***TIP 2018***) [paper] [[code](https://github.com/hongsong-wang/Beyond-Joints)]
 - **[DPRL]** Deep progressive reinforcement learning for skeleton-based action recognition (**CVPR2018**)
 - **[SR-TSL]** Skeleton based action recognition with spatial reasoning and temporal stack learning (**ECCV2018**)
 - **[HCN]** Co-occurrence feature learning from skeleton data for action recognition and detection with hierarchical aggregation (**IJCAI2018**) [[Reimplementation](https://github.com/huguyuehuhu/HCN-pytorch)]
 - Memory attention networks for skeleton-based action recognition (**IJCAI2018**)
 - **[ST-GCN]** Spatial temporal graph convolutional networks for skeleton-based action recognition (**AAAI2018**) [[code](https://github.com/yysijie/st-gcn)]
 - Spatio-temporal graph convolution for skeleton based action recognition (**AAAI2018**)
-- Beyond Joints: Learning Representations from Primitive Geometries for  Skeleton-based Action Recognition and Detection (**TIP2018**) [paper] [[code](https://github.com/hongsong-wang/Beyond-Joints)]
 
 ### 2017
 
