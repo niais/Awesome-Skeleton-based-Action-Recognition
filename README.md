@@ -12,9 +12,6 @@ If you have any problems, suggestions or improvements, please submit the issue o
 - [ ] Leaderboard
   - [x] NTU RGB+D
   - [ ] NTU RGB+D 120
-  <!-- - [ ] SYSU
-  - [ ] SBU
-  - [ ] N-UCLA -->
 
 ## Contents <!-- omit in toc -->
 
