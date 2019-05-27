@@ -124,7 +124,7 @@ descriptors on 3d joint locations (**IJCAI 2013**)
 
 ## LeaderBoard
 
-The section is being continually updated. Note that some values have a superscript, which indicates their source. We only show results on large-scale dataset NTU-RGB+D and NTU-RGB+D 120.
+The section is being continually updated. We only show results on large-scale dataset NTU-RGB+D and NTU-RGB+D 120.
 
 ### NTU-RGB+D
 
