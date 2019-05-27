@@ -4,14 +4,6 @@
 If you have any problems, suggestions or improvements, please submit the issue or PR.
 ```
 
----
-
-- Other GITHUB Repos for Skeleton-based Action Recognition Papers
-  - [<https://github.com/XiaoCode-er/Skeleton-Based-Action-Recognition-Papers>](https://github.com/XiaoCode-er/Skeleton-Based-Action-Recognition-Papers)
-  - [<https://github.com/cagbal/Skeleton-Based-Action-Recognition-Papers-and-Notes>](https://github.com/cagbal/Skeleton-Based-Action-Recognition-Papers-and-Notes)
-
----
-
 ## TODO <!-- omit in toc -->
 
 - [ ] Paper list  
@@ -45,7 +37,10 @@ If you have any problems, suggestions or improvements, please submit the issue o
 ## Misc
 
 - Microsoft Kinect sensor and its effect (**IEEE Multimedia 2012**)
-  
+- Other GITHUB Repos for Skeleton-based Action Recognition Papers
+  - [<https://github.com/XiaoCode-er/Skeleton-Based-Action-Recognition-Papers>](https://github.com/XiaoCode-er/Skeleton-Based-Action-Recognition-Papers)
+  - [<https://github.com/cagbal/Skeleton-Based-Action-Recognition-Papers-and-Notes>](https://github.com/cagbal/Skeleton-Based-Action-Recognition-Papers-and-Notes)
+
 ## Datasets
 
 - *(New! 2019)* **NTU RGB+D 120 Dataset** [[Homepage](http://rose1.ntu.edu.sg/datasets/actionrecognition.asp),[Github](https://github.com/shahroudy/NTURGB-D)]
