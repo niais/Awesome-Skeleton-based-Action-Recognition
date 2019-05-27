@@ -1,8 +1,6 @@
 # Awesome-Skeleton-based-Action-Recognition <!-- omit in toc -->
 
-```txt
 If you have any problems, suggestions or improvements, please submit the issue or PR.
-```
 
 ## TODO <!-- omit in toc -->
 
