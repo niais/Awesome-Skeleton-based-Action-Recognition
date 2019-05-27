@@ -18,8 +18,9 @@ If you have any problems, suggestions or improvements, please submit the issue o
   - [ ] paper links
   - [ ] available codes
   - [ ] more journal papers
-- [x] Leaderboard
-  - [x] NTU-RGB+D
+  - [ ] more papers published before 2016 
+- [ ] Leaderboard
+  - [x] NTU RGB+D
   - [ ] NTU RGB+D 120
   <!-- - [ ] SYSU
   - [ ] SBU
@@ -46,12 +47,12 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 ## Misc
 
-- Microsoft kinect sensor and its effect (**IEEE Multimedia 2012**)
+- Microsoft Kinect sensor and its effect (**IEEE Multimedia 2012**)
   
 ## Datasets
 
-- *(New! 2019)* **NTU RGB+D 120 Dataset** [[Homepage](http://rose1.ntu.edu.sg/datasets/actionrecognition.asp), [Github](https://github.com/shahroudy/NTURGB-D)]
-- NTU RGB+D Dataset [[Homepage](http://rose1.ntu.edu.sg/datasets/actionrecognition.asp), [Github](https://github.com/shahroudy/NTURGB-D)]
+- *(New! 2019)* **NTU RGB+D 120 Dataset** [[Homepage](http://rose1.ntu.edu.sg/datasets/actionrecognition.asp),[Github](https://github.com/shahroudy/NTURGB-D)]
+- NTU RGB+D Dataset [[Homepage](http://rose1.ntu.edu.sg/datasets/actionrecognition.asp),[Github](https://github.com/shahroudy/NTURGB-D)]
 - *(New! 2018)* VARYING-VIEW RGB-D ACTION DATASET [[arxiv](https://arxiv.org/pdf/1904.10681.pdf)]
 - (2017) SYSU 3D Human-Object Interaction Dataset (**SYSU**)
 - (2015) UWA3D Multiview Activity II Dataset (**UWA3D**)
@@ -65,7 +66,7 @@ This section only shows some popular or new datasets, other available datasets f
 
 ### arXiv papers
 
-This section only includes the last five papers since 2018 in [arXiv.org](arXiv.org). Note that arXiv papers **without available codes** are not included into [the leaderboard of performance](#LeaderBoard).
+This section only includes the last five papers since 2018 in [arXiv.org](arXiv.org). Note that arXiv papers **without available codes** are not included in [the leaderboard of performance](#LeaderBoard).
 
 - Semantics-Guided Neural Networks for Efficient Skeleton-Based Human Action Recognition [[arxiv](https://arxiv.org/pdf/1904.01189.pdf)]
 - Optimized Skeleton-based Action Recognition via Sparsified Graph Regression [[arxiv](https://arxiv.org/pdf/1811.12013.pdf)]
@@ -76,7 +77,7 @@ This section only includes the last five papers since 2018 in [arXiv.org](arXiv.
 
 ### 2019
 
-- NTU-RGB+D 120: A Large-Scale Benchmark for 3D Human Activity Understanding (***TPAMI 2019***)
+- NTU-RGB+D 120: A Large-Scale Benchmark for 3D Human Activity Understanding (***TPAMI 2019***) [[arxiv](https://arxiv.org/pdf/1905.04757.pdf)] [[Homepage](http://rose1.ntu.edu.sg/datasets/actionrecognition.asp)] [[Github](https://github.com/shahroudy/NTURGB-D)]
 - **[AS-GCN]**] Actional-Structural Graph Convolutional Networks for Skeleton-based Action Recognition (**CVPR2019**)
 - **[AGC-LSTM]** An Attention Enhanced Graph Convolutional LSTM Network for Skeleton-Based Action Recognition (**CVPR2019**)
 
@@ -131,7 +132,7 @@ descriptors on 3d joint locations (**IJCAI 2013**)
 
 ## LeaderBoard
 
-The section is being continually updated. Note that some values have superscript, which indicates their source. We only show results on large-scale dataset NTU-RGB+D and NTU-RGB+D 120.
+The section is being continually updated. Note that some values have a superscript, which indicates their source. We only show results on large-scale dataset NTU-RGB+D and NTU-RGB+D 120.
 
 ### NTU-RGB+D
 
