@@ -160,4 +160,4 @@ The section is being continually updated. Note that some values have a superscri
 
 ### NTU-RGB+D 120
 
-Existing methods have not been tested on this new dataset yet.
+Most of existing methods have not been tested on this new dataset yet, and some results can be found in the paper of **NTU RGB+D 120 Dataset** ([TPAMI](https://arxiv.org/pdf/1905.04757.pdf)).
