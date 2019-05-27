@@ -59,9 +59,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
 <!-- - SBU Kinect Interaction Dataset (**SBU**) -->
 
 This section only shows some popular or new datasets, other available datasets for 3D action recognition and their statistics can be found in the following Table from the journal paper of **NTU RGB+D 120 Dataset** ([TPAMI](https://arxiv.org/pdf/1905.04757.pdf)).
-![datasets](.\datasets.jpg)
-
-
+![datasets](./datasets.jpg)
 
 ## Papers
 
