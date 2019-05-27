@@ -1,4 +1,4 @@
-# Awesome-Skeleton-based-Action-Recognition
+# Awesome-Skeleton-based-Action-Recognition <!-- omit in toc -->
 
 ```txt
 If you have any problems, suggestions or improvements, please submit the issue or PR.
@@ -12,7 +12,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 ---
 
-## TODO
+## TODO <!-- omit in toc -->
 
 - [ ] Paper list  
   - [ ] paper links
@@ -26,24 +26,21 @@ If you have any problems, suggestions or improvements, please submit the issue o
   - [ ] SBU
   - [ ] N-UCLA -->
 
-## Contents
+## Contents <!-- omit in toc -->
 
-- [Awesome-Skeleton-based-Action-Recognition](#awesome-skeleton-based-action-recognition)
-  - [TODO](#todo)
-  - [Contents](#contents)
-  - [Misc](#misc)
-  - [Datasets](#datasets)
-  - [Papers](#papers)
-    - [arXiv papers](#arxiv-papers)
-    - [2019](#2019)
-    - [2018](#2018)
-    - [2017](#2017)
-    - [2016](#2016)
-    - [2015](#2015)
-    - [before 2015](#before-2015)
-  - [LeaderBoard](#leaderboard)
-    - [NTU-RGB+D](#ntu-rgbd)
-    - [NTU-RGB+D 120](#ntu-rgbd-120)
+- [Misc](#misc)
+- [Datasets](#datasets)
+- [Papers](#papers)
+  - [arXiv papers](#arxiv-papers)
+  - [2019](#2019)
+  - [2018](#2018)
+  - [2017](#2017)
+  - [2016](#2016)
+  - [2015](#2015)
+  - [before 2015](#before-2015)
+- [LeaderBoard](#leaderboard)
+  - [NTU-RGB+D](#ntu-rgbd)
+  - [NTU-RGB+D 120](#ntu-rgbd-120)
 
 ## Misc
 
@@ -136,27 +133,27 @@ The section is being continually updated. Note that some values have a superscri
 
 ### NTU-RGB+D
 
-| Year | Methods              | Cross-Subject | Cross-View |
-| ---- | -------------------- | :-----------: | :--------: |
-| 2014 | Lie Group            | 50.1          | 52.8       |
-| 2015 | H-RNN                | 59.1          | 64.0       |
-| 2016 | Part-aware LSTM      | 62.9          | 70.3       |
-| 2016 | Trust Gate ST-LSTM   | 69.2          | 77.7       |
-| 2017 | Two-stream RNN       | 71.3          | 79.5       |
-| 2017 | STA-LSTM             | 73.4          | 81.2       |
-| 2017 | Ensemble TS-LSTM     | 74.6          | 81.3       |
-| 2017 | Visualization CNN    | 76.0          | 82.6       |
-| 2017 | C-CNN + MTLN         | 79.6          | 84.8       |
-| 2017 | Temporal Conv        | 74.3          | 83.1       |
-| 2017 | VA-LSTM              | 79.4          | 87.6       |
-| 2018 | ST-GCN               | 81.5          | 88.3       |
-| 2018 | DPRL                 | 83.5          | 89.8       |
-| 2018 | HCN                  | 86.5          | 91.1       |
-| 2018 | SR-TSL               | 84.8          | 92.4       |
-| 2019 | AS-GCN               | 86.8          | 94.2       |
-| 2019 | AGC-LSTM (Joint)     | 87.5          | 93.5       |
-| 2019 | AGC-LSTM (Part)      | 87.5          | 93.8       |
-| 2019 | AGC-LSTM (Joint&Part)| **89.2**      | **95.0**   |
+| Year | Methods               | Cross-Subject | Cross-View |
+| ---- | --------------------- | :-----------: | :--------: |
+| 2014 | Lie Group             |     50.1      |    52.8    |
+| 2015 | H-RNN                 |     59.1      |    64.0    |
+| 2016 | Part-aware LSTM       |     62.9      |    70.3    |
+| 2016 | Trust Gate ST-LSTM    |     69.2      |    77.7    |
+| 2017 | Two-stream RNN        |     71.3      |    79.5    |
+| 2017 | STA-LSTM              |     73.4      |    81.2    |
+| 2017 | Ensemble TS-LSTM      |     74.6      |    81.3    |
+| 2017 | Visualization CNN     |     76.0      |    82.6    |
+| 2017 | C-CNN + MTLN          |     79.6      |    84.8    |
+| 2017 | Temporal Conv         |     74.3      |    83.1    |
+| 2017 | VA-LSTM               |     79.4      |    87.6    |
+| 2018 | ST-GCN                |     81.5      |    88.3    |
+| 2018 | DPRL                  |     83.5      |    89.8    |
+| 2018 | HCN                   |     86.5      |    91.1    |
+| 2018 | SR-TSL                |     84.8      |    92.4    |
+| 2019 | AS-GCN                |     86.8      |    94.2    |
+| 2019 | AGC-LSTM (Joint)      |     87.5      |    93.5    |
+| 2019 | AGC-LSTM (Part)       |     87.5      |    93.8    |
+| 2019 | AGC-LSTM (Joint&Part) |   **89.2**    |  **95.0**  |
 
 ### NTU-RGB+D 120
 
