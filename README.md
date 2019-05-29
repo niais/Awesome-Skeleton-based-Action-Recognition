@@ -105,7 +105,7 @@ This section only includes the last five papers since 2018 in [arXiv.org](arXiv.
 - **[Trust Gate ST-LSTM]** Spatio-temporal lstm with trust gates for 3d human action recognition (**ECCV 2016**)
 - **[Part-aware LSTM]** NTU RGB+D: A Large Scale Dataset for 3D Human Activity Analysis (**CVPR 2016**) [[paper](https://)]
 - Rolling rotations for recognizing human actions from 3d skeletal data (**CVPR 2016**)
-- Co-occurrence feature learning for skeleton based action recognition using regularized deep lstm networks (**AAAI 2016**)
+- Co-occurrence feature learning for skeleton based action recognition using regularized deep lstm networks (**AAAI 2016**) [[paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/download/11989/12149)]
 
 ### 2015
 
