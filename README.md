@@ -65,17 +65,19 @@ This section only includes the last five papers since 2018 in [arXiv.org](arXiv.
 ### 2019
 
 - NTU-RGB+D 120: A Large-Scale Benchmark for 3D Human Activity Understanding (***TPAMI 2019***) [[arxiv](https://arxiv.org/pdf/1905.04757.pdf)] [[Homepage](http://rose1.ntu.edu.sg/datasets/actionrecognition.asp)] [[Github](https://github.com/shahroudy/NTURGB-D)]
-- **[AS-GCN]**] Actional-Structural Graph Convolutional Networks for Skeleton-based Action Recognition (**CVPR 2019**)
-- **[AGC-LSTM]** An Attention Enhanced Graph Convolutional LSTM Network for Skeleton-Based Action Recognition (**CVPR 2019**)
+- Skeleton-Based Action Recognition With Directed Graph Neural Networks (**CVPR 2019**)
+- Two-Stream Adaptive Graph Convolutional Networks for Skeleton-Based Action Recognition (**CVPR 2019**)
+- **[AS-GCN]**] Actional-Structural Graph Convolutional Networks for Skeleton-based Action Recognition (**CVPR 2019**) [[arxiv](https://arxiv.org/pdf/1904.12659.pdf)]
+- **[AGC-LSTM]** An Attention Enhanced Graph Convolutional LSTM Network for Skeleton-Based Action Recognition (**CVPR 2019**) [[arxiv](https://arxiv.org/pdf/1902.09130.pdf)]
 
 ### 2018
 
 - Beyond Joints: Learning Representations from Primitive Geometries for Skeleton-based Action Recognition and Detection (***TIP 2018***) [paper] [[code](https://github.com/hongsong-wang/Beyond-Joints)]
-- **[DPRL]** Deep progressive reinforcement learning for skeleton-based action recognition (**CVPR 2018**)
-- **[SR-TSL]** Skeleton based action recognition with spatial reasoning and temporal stack learning (**ECCV 2018**)
-- **[HCN]** Co-occurrence feature learning from skeleton data for action recognition and detection with hierarchical aggregation (**IJCAI 2018**) [[Reimplementation](https://github.com/huguyuehuhu/HCN-pytorch)]
-- Memory attention networks for skeleton-based action recognition (**IJCAI 2018**)
-- **[ST-GCN]** Spatial temporal graph convolutional networks for skeleton-based action recognition (**AAAI 2018**) [[code](https://github.com/yysijie/st-gcn)]
+- **[DPRL]** Deep progressive reinforcement learning for skeleton-based action recognition (**CVPR 2018**) [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Tang_Deep_Progressive_Reinforcement_CVPR_2018_paper.pdf)]
+- **[SR-TSL]** Skeleton based action recognition with spatial reasoning and temporal stack learning (**ECCV 2018**) [[arxiv](https://arxiv.org/pdf/1805.02335.pdf)]
+- **[HCN]** Co-occurrence feature learning from skeleton data for action recognition and detection with hierarchical aggregation (**IJCAI 2018**) [[arxiv](https://arxiv.org/pdf/1804.06055.pdf)] [[Reimplementation](https://github.com/huguyuehuhu/HCN-pytorch)]
+- Memory attention networks for skeleton-based action recognition (**IJCAI 2018**) [[arxiv](https://arxiv.org/pdf/1804.08254.pdf)]
+- **[ST-GCN]** Spatial temporal graph convolutional networks for skeleton-based action recognition (**AAAI 2018**) [[arxiv](https://arxiv.org/pdf/1801.07455.pdf)] [[code](https://github.com/yysijie/st-gcn)]
 - Spatio-temporal graph convolution for skeleton based action recognition (**AAAI 2018**)
 - Part-based Graph Convolutional Network for Action Recognition (**BMVC 2018**)
 - A Fine-to-Coarse Convolutional Neural Network for 3D Human Action Recognition (**BMVC 2018**)
