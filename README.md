@@ -4,8 +4,8 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 ## TODO <!-- omit in toc -->
 
-- [ ] Paper list  
-  - [ ] paper links
+- [ ] Paper list
+  - [x] paper links
   - [ ] available codes
   - [ ] more journal papers
   - [ ] more papers published before 2016
@@ -66,7 +66,7 @@ This section only includes the last five papers since 2018 in [arXiv.org](arXiv.
 
 - NTU-RGB+D 120: A Large-Scale Benchmark for 3D Human Activity Understanding (***TPAMI 2019***) [[arxiv](https://arxiv.org/pdf/1905.04757.pdf)] [[Homepage](http://rose1.ntu.edu.sg/datasets/actionrecognition.asp)] [[Github](https://github.com/shahroudy/NTURGB-D)]
 - Skeleton-Based Action Recognition With Directed Graph Neural Networks (**CVPR 2019**)
-- [2s-AGCN] Two-Stream Adaptive Graph Convolutional Networks for Skeleton-Based Action Recognition (**CVPR 2019**) [[Github](https://github.com/lshiwjx/2s-AGCN)]
+- **[2s-AGCN]** Two-Stream Adaptive Graph Convolutional Networks for Skeleton-Based Action Recognition (**CVPR 2019**) [[Github](https://github.com/lshiwjx/2s-AGCN)]
 - **[AS-GCN]**] Actional-Structural Graph Convolutional Networks for Skeleton-based Action Recognition (**CVPR 2019**) [[arxiv](https://arxiv.org/pdf/1904.12659.pdf)]
 - **[AGC-LSTM]** An Attention Enhanced Graph Convolutional LSTM Network for Skeleton-Based Action Recognition (**CVPR 2019**) [[arxiv](https://arxiv.org/pdf/1902.09130.pdf)]
 - Richly Activated Graph Convolutional Network for Action Recognition with Incomplete Skeletons (**ICIP 2019**) [[arxiv](https://arxiv.org/pdf/1905.06774.pdf)]
