@@ -144,9 +144,7 @@ The section is being continually updated. We only show results on large-scale da
 | 2019 | AS-GCN                |     86.8      |    94.2    |
 | 2019 | AGC-LSTM (Joint&Part) |     89.2      |    95.0    |
 | 2019 | 2s-AGCN               |     88.5      |    95.1    |
-| 2019 | DGNN                  |     **89.9**      |    **96.1**    |
-<!-- | 2019 | AGC-LSTM (Joint)      |     87.5      |    93.5    |
-| 2019 | AGC-LSTM (Part)       |     87.5      |    93.8    | -->
+| 2019 | DGNN                  |   **89.9**    |  **96.1**  |
 
 ### NTU-RGB+D 120
 
