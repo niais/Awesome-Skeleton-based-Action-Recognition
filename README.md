@@ -88,7 +88,7 @@ This section only includes the last five papers since 2018 in [arXiv.org](arXiv.
 - **[MAN]** Memory attention networks for skeleton-based action recognition (**IJCAI 2018**) [[arxiv](https://arxiv.org/pdf/1804.08254.pdf)] [[Github](https://github.com/memory-attention-networks/MANs)]
 - **[ST-GCN]** Spatial temporal graph convolutional networks for skeleton-based action recognition (**AAAI 2018**) [[arxiv](https://arxiv.org/pdf/1801.07455.pdf)] [[Github](https://github.com/yysijie/st-gcn)]
 - Spatio-temporal graph convolution for skeleton based action recognition (**AAAI 2018**) [[arxiv](https://arxiv.org/pdf/1802.09834.pdf)]
-- Part-based Graph Convolutional Network for Action Recognition (**BMVC 2018**) [[arxiv](https://arxiv.org/pdf/1809.04983.pdf)]
+- Part-based Graph Convolutional Network for Action Recognition (**BMVC 2018**) [[arxiv](https://arxiv.org/pdf/1809.04983.pdf)] [[Github](https://github.com/kalpitthakkar/pb-gcn)]
 - A Fine-to-Coarse Convolutional Neural Network for 3D Human Action Recognition (**BMVC 2018**) [[arxiv](https://arxiv.org/pdf/1805.11790.pdf)]
 - A Large-scale Varying-view RGB-D Action Dataset for Arbitrary-view Human Action Recognition (**ACMMM 2018**) [[arxiv](https://arxiv.org/pdf/1904.10681.pdf)]
   
@@ -152,6 +152,7 @@ The section is being continually updated. We only show results on large-scale da
 | 2018 | SR-TSL                |     84.8      |    92.4    |
 | 2018 | MAN                   |     82.7      |    93.2    |
 | 2019 | RA-GCN                |     85.9      |    93.5    |
+| 2018 | PB-GCN                |     87.5      |    93.2    |
 | 2019 | AS-GCN                |     86.8      |    94.2    |
 | 2019 | VA-NN                 |     88.7      |    94.3    |
 | 2019 | AGC-LSTM (Joint&Part) |     89.2      |    95.0    |
