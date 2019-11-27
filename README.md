@@ -57,6 +57,8 @@ This section only shows some popular or new datasets, other available datasets f
 This section only includes the last five papers since 2018 in [arXiv.org](arXiv.org). Note that arXiv papers **without available codes** are not included in [the leaderboard of performance](#leaderboard).
 
 - **[Sym-GNN]** Symbiotic Graph Neural Networks for 3D Skeleton-based Human Action Recognition and Motion Prediction [[arxiv](https://arxiv.org/pdf/1910.02212v1.pdf)] [[Github](https://github.com/limaosen0/Sym-GNN)]
+- Bayesian Graph Convolutional LSTM for Skeleton Based Action Recognition [[arxiv](http://openaccess.thecvf.com/content_ICCV_2019/papers/Zhao_Bayesian_Graph_Convolution_LSTM_for_Skeleton_Based_Action_Recognition_ICCV_2019_paper.pdf)]
+- Learning Graph Convolutional Network for Skeleton-based Human Action Recognition by Neural Searching [[arxiv](https://arxiv.org/pdf/1911.04131.pdf)]
 - Semantics-Guided Neural Networks for Efficient Skeleton-Based Human Action Recognition [[arxiv](https://arxiv.org/pdf/1904.01189.pdf)]
 - Optimized Skeleton-based Action Recognition via Sparsified Graph Regression [[arxiv](https://arxiv.org/pdf/1811.12013.pdf)]
 - Skeleton-Based Action Recognition with Synchronous Local and Non-local Spatio-temporal Learning and Frequency Attention [[arxiv](https://arxiv.org/pdf/1811.04237.pdf)]
@@ -79,6 +81,7 @@ This section only includes the last five papers since 2018 in [arXiv.org](arXiv.
 - **[AS-GCN]**] Actional-Structural Graph Convolutional Networks for Skeleton-based Action Recognition (**CVPR 2019**) [[arxiv](https://arxiv.org/pdf/1904.12659.pdf)] [[Github](https://github.com/limaosen0/AS-GCN)]
 - **[AGC-LSTM]** An Attention Enhanced Graph Convolutional LSTM Network for Skeleton-Based Action Recognition (**CVPR 2019**) [[arxiv](https://arxiv.org/pdf/1902.09130.pdf)]
 - Richly Activated Graph Convolutional Network for Action Recognition with Incomplete Skeletons (**ICIP 2019**) [[arxiv](https://arxiv.org/pdf/1905.06774.pdf)] [[Github](https://github.com/yfsong0709/RA-GCNv1)]
+- Graph CNNs with Motif and Variable Temporal Block for Skeleton-based Action Recognition (**AAAI 2019**) [[arxiv](http://geometrylearning.com/paper/Graph_CNN.pdf)] [[Github](https://github.com/wenyh1616/motif-stgcn)]
 
 
 ### 2018
@@ -150,6 +153,7 @@ The section is being continually updated. We only show results on large-scale da
 | 2018 | Beyond Joints         |     79.5      |    87.6    |
 | 2018 | ST-GCN                |     81.5      |    88.3    |
 | 2018 | DPRL                  |     83.5      |    89.8    |
+| 2019 | Motif-STGCN           |     84.2      |    90.2    |
 | 2018 | HCN                   |     86.5      |    91.1    |
 | 2018 | SR-TSL                |     84.8      |    92.4    |
 | 2018 | MAN                   |     82.7      |    93.2    |
