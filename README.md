@@ -7,8 +7,8 @@ If you have any problems, suggestions or improvements, please submit the issue o
 - [ ] Paper list
   - [x] paper links
   - [ ] available codes
-  - [ ] more journal papers
-  - [ ] more papers published before 2016
+  <!-- - [ ] more journal papers -->
+  <!-- - [ ] more papers published before 2016 -->
 - [ ] Leaderboard
   - [x] NTU RGB+D
   - [ ] NTU RGB+D 120
@@ -29,7 +29,6 @@ If you have any problems, suggestions or improvements, please submit the issue o
 - [LeaderBoard](#leaderboard)
   - [NTU-RGB+D](#ntu-rgbd)
   - [NTU-RGB+D 120](#ntu-rgbd-120)
-  - [NTU-RGB+D-120](#ntu-rgbd-120)
 
 ## Misc
 
@@ -172,8 +171,6 @@ The section is being continually updated. We only show results on large-scale da
 ### NTU-RGB+D 120
 
 Most of existing methods have not been tested on this new dataset yet, and some results can be found in the paper of **NTU RGB+D 120 Dataset** ([TPAMI](https://arxiv.org/pdf/1905.04757.pdf)).
-
-### NTU-RGB+D-120
 
 | Year | Methods                             | Cross-Subject | Cross-Setup |
 | ---- | ----------------------------------- | :-----------: | :---------: |
