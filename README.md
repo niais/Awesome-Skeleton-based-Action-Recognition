@@ -72,6 +72,7 @@ This section only includes the last five papers since 2018 in [arXiv.org](arXiv.
 
 - NTU-RGB+D 120: A Large-Scale Benchmark for 3D Human Activity Understanding (***TPAMI 2019***) [[arxiv](https://arxiv.org/pdf/1905.04757.pdf)] [[Homepage](http://rose1.ntu.edu.sg/datasets/actionrecognition.asp)] [[Github](https://github.com/shahroudy/NTURGB-D)]
 - **[TSRJI]** Skeleton Image Representation for 3D Action Recognition based on Tree Structure and Reference Joints (**SIBGRAPI**) [[arxiv](https://arxiv.org/pdf/1909.05704v1.pdf)] [[Github](https://github.com/carloscaetano/skeleton-images#skeleton-images-representation-SkeleMotion-and-SRJI)]
+- **[DenseIndRNN]** Deep Independently Recurrent Neural Network (**Preprint**)[[arxiv](https://arxiv.org/pdf/1910.06251v1.pdf)] [[Github](https://github.com/Sunnydreamrain/IndRNN_pytorch)]
 - **[SkeleMotion]** SkeleMotion: A New Representation of Skeleton Joint Sequences Based on Motion Information for 3D Action Recognition (**AVSS**) [[arxiv](https://arxiv.org/pdf/1907.13025v1.pdf)] [[Github](https://github.com/carloscaetano/skeleton-images#skeleton-images-representation-SkeleMotion-and-SRJI)] 
 - **[VA-NN]** View Adaptive Neural Networks for High Performance Skeleton-based Human Action Recognition (**TPAMI 2019**) [[arxiv](https://arxiv.org/pdf/1804.07453.pdf)] [[Github](https://github.com/microsoft/View-Adaptive-Neural-Networks-for-Skeleton-based-Human-Action-Recognition)]
 - **[DGNN]** Skeleton-Based Action Recognition With Directed Graph Neural Networks (**CVPR 2019**) [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Shi_Skeleton-Based_Action_Recognition_With_Directed_Graph_Neural_Networks_CVPR_2019_paper.pdf)][[unofficial PyTorch implementation](https://github.com/kenziyuliu/DGNN-PyTorch)]
@@ -154,6 +155,7 @@ The section is being continually updated. We only show results on large-scale da
 | 2018 | SR-TSL                |     84.8      |    92.4    |
 | 2018 | MAN                   |     82.7      |    93.2    |
 | 2019 | RA-GCN                |     85.9      |    93.5    |
+| 2019 | DenseIndRNN           |     86.7      |    93.7    |
 | 2018 | PB-GCN                |     87.5      |    93.2    |
 | 2019 | AS-GCN                |     86.8      |    94.2    |
 | 2019 | VA-NN                 |     88.7      |    94.3    |
