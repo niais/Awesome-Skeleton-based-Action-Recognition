@@ -20,6 +20,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
 - [Papers](#papers)
   - [arXiv papers](#arxiv-papers)
   - [Survey](#survey)
+  - [2020](#2020)
   - [2019](#2019)
   - [2018](#2018)
   - [2017](#2017)
@@ -58,7 +59,6 @@ This section only includes the last five papers since 2018 in [arXiv.org](arXiv.
 
 - **[Sym-GNN]** Symbiotic Graph Neural Networks for 3D Skeleton-based Human Action Recognition and Motion Prediction [[arxiv](https://arxiv.org/pdf/1910.02212v1.pdf)] [[Github](https://github.com/limaosen0/Sym-GNN)]
 - **[DenseIndRNN]** Deep Independently Recurrent Neural Network (**Preprint**) [[arxiv](https://arxiv.org/pdf/1910.06251v1.pdf)] [[Github](https://github.com/Sunnydreamrain/IndRNN_pytorch)]
-- Semantics-Guided Neural Networks for Efficient Skeleton-Based Human Action Recognition [[arxiv](https://arxiv.org/pdf/1904.01189.pdf)]
 - Optimized Skeleton-based Action Recognition via Sparsified Graph Regression [[arxiv](https://arxiv.org/pdf/1811.12013.pdf)]
 - Skeleton-Based Action Recognition with Synchronous Local and Non-local Spatio-temporal Learning and Frequency Attention [[arxiv](https://arxiv.org/pdf/1811.04237.pdf)]
 - Skeleton-Based Action Recognition with Multi-Stream Adaptive Graph Convolutional Networks [[arxiv](https://arxiv.org/pdf/1912.06971.pdf)]
@@ -69,6 +69,12 @@ This section only includes the last five papers since 2018 in [arXiv.org](arXiv.
 ### Survey
 
 - A Comparative Review of Recent Kinect-based Action Recognition Algorithms (***TIP 2019***) [[arxiv](https://arxiv.org/pdf/1906.09955.pdf)]
+
+### 2020
+
+- **[MS-G3D]** Disentangling and Unifying Graph Convolutions for Skeleton-Based Action Recognition (**CVPR 2020**) [[arxiv](https://arxiv.org/pdf/2003.14111.pdf)] [[Github](https://github.com/kenziyuliu/ms-g3d)]
+- **[SGN]** Semantics-Guided Neural Networks for Efficient Skeleton-Based Human Action Recognition (**CVPR 2020**) [[arxiv](https://arxiv.org/pdf/1904.01189.pdf)]
+- **[GCN-NAS]** Learning Graph Convolutional Network for Skeleton-based Human Action Recognition by Neural Searching (**AAAI 2020**) [[arxiv](https://arxiv.org/pdf/1911.04131v1.pdf)] [[Github](https://github.com/xiaoiker/GCN-NAS)]
 
 ### 2019
 
@@ -81,7 +87,6 @@ This section only includes the last five papers since 2018 in [arXiv.org](arXiv.
 - **[AS-GCN]** Actional-Structural Graph Convolutional Networks for Skeleton-based Action Recognition (**CVPR 2019**) [[arxiv](https://arxiv.org/pdf/1904.12659.pdf)] [[Github](https://github.com/limaosen0/AS-GCN)]
 - **[AGC-LSTM]** An Attention Enhanced Graph Convolutional LSTM Network for Skeleton-Based Action Recognition (**CVPR 2019**) [[arxiv](https://arxiv.org/pdf/1902.09130.pdf)]
 - **[Motif-STGCN]** Graph CNNs with Motif and Variable Temporal Block for Skeleton-based Action Recognition (**AAAI 2019**) [[arxiv](http://geometrylearning.com/paper/Graph_CNN.pdf)] [[Github](https://github.com/wenyh1616/motif-stgcn)]
-- **[GCN-NAS]** Learning Graph Convolutional Network for Skeleton-based Human Action Recognition by Neural Searching (**AAAI 2020**) [[arxiv](https://arxiv.org/pdf/1911.04131v1.pdf)] [[Github](https://github.com/xiaoiker/GCN-NAS)]
 - Richly Activated Graph Convolutional Network for Action Recognition with Incomplete Skeletons (**ICIP 2019**) [[arxiv](https://arxiv.org/pdf/1905.06774.pdf)] [[Github](https://github.com/yfsong0709/RA-GCNv1)]
 - **[TSRJI]** Skeleton Image Representation for 3D Action Recognition based on Tree Structure and Reference Joints (**SIBGRAPI**) [[arxiv](https://arxiv.org/pdf/1909.05704v1.pdf)] [[Github](https://github.com/carloscaetano/skeleton-images#skeleton-images-representation-SkeleMotion-and-SRJI)]
 - **[SkeleMotion]** SkeleMotion: A New Representation of Skeleton Joint Sequences Based on Motion Information for 3D Action Recognition (**AVSS**) [[arxiv](https://arxiv.org/pdf/1907.13025v1.pdf)] [[Github](https://github.com/carloscaetano/skeleton-images#skeleton-images-representation-SkeleMotion-and-SRJI)]
@@ -166,9 +171,11 @@ The section is being continually updated. We only show results on large-scale da
 | 2019 | VA-NN (fusion)        |     89.4      |    95.0    |
 | 2019 | AGC-LSTM (Joint&Part) |     89.2      |    95.0    |
 | 2019 | 2s-AGCN               |     88.5      |    95.1    |
+| 2020 | SGN                   |     89.0      |    94.5    |
 | 2020 | GCN-NAS               |     89.4      |    95.7    |
 | 2019 | 2s-SDGCN              |     89.6      |    95.7    |
-| 2019 | DGNN                  |   **89.9**    |  **96.1**  |
+| 2019 | DGNN                  |     89.9      |    96.1    |
+| 2020 | MS-G3D                |     91.5      |    96.2    |
 
 ### NTU-RGB+D 120
 
@@ -176,6 +183,8 @@ Most of existing methods have not been tested on this new dataset yet, and some 
 
 | Year | Methods                             | Cross-Subject | Cross-Setup |
 | ---- | ----------------------------------- | :-----------: | :---------: |
-| 2019 | SkeleMotion (Magnitude-Orientation) |     62.9      |      63.0   |
-| 2019 | SkeleMotion + Yang *et al*          |     67.7      |      66.9   |
-| 2019 | TSRJI                               |     67.9      |      59.7   |
+| 2019 | SkeleMotion (Magnitude-Orientation) |     62.9      |    63.0     |
+| 2019 | SkeleMotion + Yang *et al*          |     67.7      |    66.9     |
+| 2019 | TSRJI                               |     67.9      |    59.7     |
+| 2020 | SGN                                 |     79.2      |    81.5     |
+| 2020 | MS-G3D                              |     86.9      |    88.4     |
