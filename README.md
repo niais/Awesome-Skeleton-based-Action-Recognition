@@ -37,11 +37,11 @@ If you have any problems, suggestions or improvements, please submit the issue o
 - Other GITHUB Repos for Skeleton-based Action Recognition Papers
   - [<https://github.com/XiaoCode-er/Skeleton-Based-Action-Recognition-Papers>](https://github.com/XiaoCode-er/Skeleton-Based-Action-Recognition-Papers)
   - [<https://github.com/cagbal/Skeleton-Based-Action-Recognition-Papers-and-Notes>](https://github.com/cagbal/Skeleton-Based-Action-Recognition-Papers-and-Notes)
-- [<https://skeleton.iiit.ac.in/>](https://skeleton.iiit.ac.in/) : A web portal as part on human action understanding from skeleton data. The 
+- [Quo Vadis, Skeleton Action Recognition?](https://skeleton.iiit.ac.in/) : A web portal as part on human action understanding from skeleton data. The 
 portal contains
- - (1) an interactive dashboard showing detailed performance plots of top performing models for NTU-120 dataset. 
- - (2) code and pre-trained models for top-performers, including novel ensemble which achieves state-of-the-art performance on NTU-120
- - (3) new skeleton action datasets (skeletics-152, skeleton-mimetics) and pre-trained models.
+  - (1) an interactive dashboard showing detailed performance plots of top performing models for NTU-120 dataset. 
+  - (2) code and pre-trained models for top-performers, including novel ensemble which achieves state-of-the-art performance on NTU-120
+  - (3) new skeleton action datasets (skeletics-152, skeleton-mimetics) and pre-trained models.
 
 ## Datasets
 
