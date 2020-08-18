@@ -37,6 +37,11 @@ If you have any problems, suggestions or improvements, please submit the issue o
 - Other GITHUB Repos for Skeleton-based Action Recognition Papers
   - [<https://github.com/XiaoCode-er/Skeleton-Based-Action-Recognition-Papers>](https://github.com/XiaoCode-er/Skeleton-Based-Action-Recognition-Papers)
   - [<https://github.com/cagbal/Skeleton-Based-Action-Recognition-Papers-and-Notes>](https://github.com/cagbal/Skeleton-Based-Action-Recognition-Papers-and-Notes)
+- [<https://skeleton.iiit.ac.in/>](https://skeleton.iiit.ac.in/) : A web portal as part on human action understanding from skeleton data. The 
+portal contains
+ - (1) an interactive dashboard showing detailed performance plots of top performing models for NTU-120 dataset. 
+ - (2) code and pre-trained models for top-performers, including novel ensemble which achieves state-of-the-art performance on NTU-120
+ - (3) new skeleton action datasets (skeletics-152, skeleton-mimetics) and pre-trained models.
 
 ## Datasets
 
@@ -63,7 +68,7 @@ This section only includes the last five papers since 2018 in [arXiv.org](arXiv.
 - Skeleton-Based Action Recognition with Synchronous Local and Non-local Spatio-temporal Learning and Frequency Attention [[arxiv](https://arxiv.org/pdf/1811.04237.pdf)]
 - **[DSTA-Net]** Decoupled Spatial-Temporal Attention Network for Skeleton-Based Action Recognition [[arxiv](https://arxiv.org/abs/2007.03263#:~:text=Decoupled%20Spatial%2DTemporal%20Attention%20Network%20for%20Skeleton%2DBased%20Action%20Recognition,-Lei%20Shi%2C%20Yifan&text=It%20involves%20solely%20the%20attention,their%20positions%20or%20mutual%20connections.)]
 - Skeleton-Based Action Recognition with Multi-Stream Adaptive Graph Convolutional Networks [[arxiv](https://arxiv.org/pdf/1912.06971.pdf)]
-- Quo Vadis, Skeleton Action Recognition ? [[arxiv](https://128.84.21.199/pdf/2007.02072.pdf)]
+- Quo Vadis, Skeleton Action Recognition ? [[arxiv](https://128.84.21.199/pdf/2007.02072.pdf)] [[Github](https://github.com/skelemoa/quovadis)]
 <!-- - Skeleton-based Activity Recognition with Local Order Preserving Match of Linear Patches [[arxiv](https://arxiv.org/pdf/1811.00256.pdf)] -->
 <!--- Graph Edge Convolutional Neural Networks for Skeleton Based Action Recognition [[arxiv](https://arxiv.org/pdf/1805.06184.pdf)]-->
 <!-- ### Survey -->
