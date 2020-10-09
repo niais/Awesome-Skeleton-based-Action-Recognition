@@ -89,6 +89,7 @@ This section only includes the last five papers since 2018 in [arXiv.org](arXiv.
 
 - **[GCN-NAS]** Learning Graph Convolutional Network for Skeleton-based Human Action Recognition by Neural Searching (**AAAI 2020**) [[arxiv](https://arxiv.org/pdf/1911.04131v1.pdf)] [[Github](https://github.com/xiaoiker/GCN-NAS)]
 
+- **[DecoupleGCN-DropGraph]** Decoupling GCN with DropGraph Module for Skeleton-Based Action Recognition (**ECCV 2020**) [[arxiv](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123690528.pdf]] [[Github](https://github.com/kchengiva/DecoupleGCN-DropGraph)]
 
 ### 2019
 
@@ -189,7 +190,8 @@ The section is being continually updated. We only show results on large-scale da
 | 2020 | GCN-NAS               |     89.4      |    95.7    |
 | 2019 | 2s-SDGCN              |     89.6      |    95.7    |
 | 2019 | DGNN                  |     89.9      |    96.1    |
-| 2020 | 4s Shift-GCN           |     90.7      |    96.5    |
+| 2020 | 4s Shift-GCN          |     90.7      |    96.5    |
+| 2020 | DecoupleGCN-DropGraph |     90.8      |    96.6    |    
 | 2020 | MS-G3D                |     91.5      |    96.2    |
 
 ### NTU-RGB+D 120
@@ -203,4 +205,6 @@ Most of existing methods have not been tested on this new dataset yet, and some 
 | 2019 | TSRJI                               |     67.9      |    59.7     |
 | 2020 | SGN                                 |     79.2      |    81.5     |
 | 2020 | 4s Shift-GCN                        |     85.9      |    87.6     |
+| 2020 | DecoupleGCN-DropGraph               |     86.5      |    88.1     |    
 | 2020 | MS-G3D                              |     86.9      |    88.4     |
+
