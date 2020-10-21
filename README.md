@@ -89,7 +89,8 @@ This section only includes the last five papers since 2018 in [arXiv.org](arXiv.
 
 - **[GCN-NAS]** Learning Graph Convolutional Network for Skeleton-based Human Action Recognition by Neural Searching (**AAAI 2020**) [[arxiv](https://arxiv.org/pdf/1911.04131v1.pdf)] [[Github](https://github.com/xiaoiker/GCN-NAS)]
 
-- **[DecoupleGCN-DropGraph]** Decoupling GCN with DropGraph Module for Skeleton-Based Action Recognition (**ECCV 2020**) [[arxiv](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123690528.pdf)] [[Github](https://github.com/kchengiva/DecoupleGCN-DropGraph)]
+- **[DecoupleGCN-DropGraph]** Decoupling GCN with DropGraphPA-ResGCN Module for Skeleton-Based Action Recognition (**ECCV 2020**) [[arxiv](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123690528.pdf)] [[Github](https://github.com/kchengiva/DecoupleGCN-DropGraph)]
+- **[PA-ResGCN]** Stronger, Faster and More Explainable: A Graph Convolutional Baseline for Skeleton-based Action Recognition (**ACM-MM 2020**) [[arxiv](https://arxiv.org/pdf/2010.09978.pdf)] [[Github](https://github.com/yfsong0709/ResGCNv1)]
 
 ### 2019
 
@@ -191,7 +192,8 @@ The section is being continually updated. We only show results on large-scale da
 | 2019 | 2s-SDGCN              |     89.6      |    95.7    |
 | 2019 | DGNN                  |     89.9      |    96.1    |
 | 2020 | 4s Shift-GCN          |     90.7      |    96.5    |
-| 2020 | DecoupleGCN-DropGraph |     90.8      |    96.6    |    
+| 2020 | DecoupleGCN-DropGraph |     90.8      |    96.6    |  
+| 2020 | PA-ResGCN-B19         |     90.9      |    96.0    |
 | 2020 | MS-G3D                |     91.5      |    96.2    |
 
 ### NTU-RGB+D 120
@@ -207,4 +209,4 @@ Most of existing methods have not been tested on this new dataset yet, and some 
 | 2020 | 4s Shift-GCN                        |     85.9      |    87.6     |
 | 2020 | DecoupleGCN-DropGraph               |     86.5      |    88.1     |    
 | 2020 | MS-G3D                              |     86.9      |    88.4     |
-
+| 2020 | PA-ResGCN-B19                       |     87.3      |    88.3     |
