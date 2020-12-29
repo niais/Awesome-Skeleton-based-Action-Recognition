@@ -156,7 +156,7 @@ This section only includes the last five papers since 2018 in [arXiv.org](arXiv.
   
 ### before 2015
 
-- **[LieGroup]** Human action recognition by representing 3d skeletons as points in a lie group (**CVPR 2014**) [[paper](https://zpascal.net/cvpr2014/Vemulapalli_Human_Action_Recognition_2014_CVPR_paper.pdf)]
+- **[LieGroup]** Human action recognition by representing 3d skeletons as points in a lie group (**CVPR 2014**) [[paper](https://openaccess.thecvf.com/content_cvpr_2014/papers/Vemulapalli_Human_Action_Recognition_2014_CVPR_paper.pdf)]
 - Human action recognition using a temporal hierarchy of covariance descriptors on 3d joint locations (**IJCAI 2013**) [[paper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.415.8032&rep=rep1&type=pdf)]
 
 ## LeaderBoard
