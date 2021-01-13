@@ -5,28 +5,29 @@ If you have any problems, suggestions or improvements, please submit the issue o
 ## TODO <!-- omit in toc -->
 
 - [ ] Paper list
-  - [x] paper links
-  - [ ] available codes
-  <!-- - [ ] more journal papers -->
-  <!-- - [ ] more papers published before 2016 -->
-- [ ] Leaderboard
+  - [x] supervised methods
+  - [ ] semi-supervised methods
+  - [ ] unsupervised methods
+- [ ] Leaderboard for supervised methods
   - [x] NTU RGB+D
   - [ ] NTU RGB+D 120
+- [ ] Leaderboard for unsupervised and semi-supervised methods
 
 ## Contents <!-- omit in toc -->
 
 - [Misc](#misc)
 - [Datasets](#datasets)
-- [Papers](#papers)
+- [Semi-supervised and Unsupervised Skeleton Rrepresentation](#semi-supervised-and-unsupervised-skeleton-rrepresentation)
+  - [arXiv](#arxiv)
+  - [papers](#papers)
+- [Supervised Skeleton-based Action Recognition](#supervised-skeleton-based-action-recognition)
   - [arXiv papers](#arxiv-papers)
   - [Survey](#survey)
   - [2020](#2020)
   - [2019](#2019)
   - [2018](#2018)
   - [2017](#2017)
-  - [2016](#2016)
-  - [2015](#2015)
-  - [before 2015](#before-2015)
+  - [before 2017](#before-2017)
 - [LeaderBoard](#leaderboard)
   - [NTU-RGB+D](#ntu-rgbd)
   - [NTU-RGB+D 120](#ntu-rgbd-120)
@@ -47,7 +48,7 @@ portal contains
 
 - *(New! 2019)* **NTU RGB+D 120 Dataset** [[Homepage](http://rose1.ntu.edu.sg/datasets/actionrecognition.asp),[Github](https://github.com/shahroudy/NTURGB-D)]
 - NTU RGB+D Dataset [[Homepage](http://rose1.ntu.edu.sg/datasets/actionrecognition.asp),[Github](https://github.com/shahroudy/NTURGB-D)]
-- *(New! 2018)* VARYING-VIEW RGB-D ACTION DATASET [[arxiv](https://arxiv.org/pdf/1904.10681.pdf), [Github](https://github.com/HRI-UESTC/CFM-HRI-RGB-D-action-database)]
+- (2018) VARYING-VIEW RGB-D ACTION DATASET [[arxiv](https://arxiv.org/pdf/1904.10681.pdf), [Github](https://github.com/HRI-UESTC/CFM-HRI-RGB-D-action-database)]
 - (2017) SYSU 3D Human-Object Interaction Dataset (**SYSU**)
 - (2015) UWA3D Multiview Activity II Dataset (**UWA3D**) [[download](http://staffhome.ecm.uwa.edu.au/~00053650/databases.html)]
 - (2014) Northwestern-UCLA Dataset (**N-UCLA**) [[donwload](https://users.eecs.northwestern.edu/~jwa368/my_data.html)]
@@ -56,7 +57,24 @@ portal contains
 This section only shows some popular or new datasets, other available datasets for 3D action recognition and their statistics can be found in the following Table from the journal paper of **NTU RGB+D 120 Dataset** ([TPAMI](https://arxiv.org/pdf/1905.04757.pdf)).
 ![datasets](./datasets.jpg)
 
-## Papers
+## Semi-supervised and Unsupervised Skeleton Rrepresentation
+
+### arXiv
+
+- Augmented skeleton based contrastive action learning with momentum lstm for unsupervised action recognition
+- Skeleton-DML: Deep Metric Learning for Skeleton-Based One-Shot Action Recognition
+- Sparse Semi-Supervised Action Recognition with Active Learning
+
+### papers
+
+- Adversarial Self-Supervised Learning for Semi-Supervised 3D Action Recognition (**ECCV 2020**)
+- Unsupervised 3D Human Pose Representation with Viewpoint and Pose Disentanglement (**ECCV 2020**)
+- Predict & cluster: Unsupervised skeleton based action recognition (**CVPR 2020**)
+- Ms2l: Multi-task self-supervised learning for skeleton based action recognition (**ACMMM 2020**)
+- Unsupervised feature learning of human actions as trajectories in pose embedding manifold (**WACV 2018**) [[arxiv](https://arxiv.org/abs/1812.02592)]
+- Unsupervised representation learning with long-term dynamics for skeleton based action recognition (**AAAI 2018**)
+
+## Supervised Skeleton-based Action Recognition
 
 ### arXiv papers
 
@@ -69,9 +87,6 @@ This section only includes the last five papers since 2018 in [arXiv.org](arXiv.
 - **[DSTA-Net]** Decoupled Spatial-Temporal Attention Network for Skeleton-Based Action Recognition [[arxiv](https://arxiv.org/abs/2007.03263#:~:text=Decoupled%20Spatial%2DTemporal%20Attention%20Network%20for%20Skeleton%2DBased%20Action%20Recognition,-Lei%20Shi%2C%20Yifan&text=It%20involves%20solely%20the%20attention,their%20positions%20or%20mutual%20connections.)]
 - Skeleton-Based Action Recognition with Multi-Stream Adaptive Graph Convolutional Networks [[arxiv](https://arxiv.org/pdf/1912.06971.pdf)]
 - Quo Vadis, Skeleton Action Recognition ? [[arxiv](https://128.84.21.199/pdf/2007.02072.pdf)] [[Github](https://github.com/skelemoa/quovadis)]
-<!-- - Skeleton-based Activity Recognition with Local Order Preserving Match of Linear Patches [[arxiv](https://arxiv.org/pdf/1811.00256.pdf)] -->
-<!--- Graph Edge Convolutional Neural Networks for Skeleton Based Action Recognition [[arxiv](https://arxiv.org/pdf/1805.06184.pdf)]-->
-<!-- ### Survey -->
 
 ### Survey
 
@@ -79,6 +94,7 @@ This section only includes the last five papers since 2018 in [arXiv.org](arXiv.
 
 ### 2020
 
+- **[MV-IGNET]** Learning Multi-View Interactional Skeleton Graph for Action Recognition (**TPAMI 2020**) [[paper](https://ieeexplore.ieee.org/abstract/document/9234715)][[Github](https://github.com/niais/mv-ignet)]
 - **[P&C FW-AEC]** PREDICT & CLUSTER: Unsupervised Skeleton Based Action Recognition (**CVPR 2020**) [[paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Su_PREDICT__CLUSTER_Unsupervised_Skeleton_Based_Action_Recognition_CVPR_2020_paper.pdf)]
 - **[CA-GC]** Context Aware Graph Convolution for Skeleton-Based Action Recognition (**CVPR 2020**) [[paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_Context_Aware_Graph_Convolution_for_Skeleton-Based_Action_Recognition_CVPR_2020_paper.pdf)]
 - **[Shift-GCN]** Skeleton-Based Action Recognition With Shift Graph Convolutional Network (**CVPR 2020**) [[paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Cheng_Skeleton-Based_Action_Recognition_With_Shift_Graph_Convolutional_Network_CVPR_2020_paper.pdf)][[Github](https://github.com/kchengiva/Shift-GCN)]
@@ -141,21 +157,15 @@ This section only includes the last five papers since 2018 in [arXiv.org](arXiv.
 - PKU-MMD: A large scale benchmark for continuous multi-modal human action understanding (*ACMMM Workshop 2017*) [[arxiv](https://arxiv.org/pdf/1703.07475.pdf)]
 - **[Temporal Conv]** Interpretable 3d human action analysis with temporal convolutional networks (*CVPR Workshop 2017*) [[arxiv](https://arxiv.org/pdf/1704.04516.pdf)]
   
-### 2016
+### before 2017
 
 - **[Trust Gate ST-LSTM]** Spatio-temporal lstm with trust gates for 3d human action recognition (**ECCV 2016**) [[arxiv](https://arxiv.org/pdf/1607.07043.pdf)] [[Github](https://github.com/kinect59/Spatio-Temporal-LSTM)]
 - **[Part-aware LSTM]** NTU RGB+D: A Large Scale Dataset for 3D Human Activity Analysis (**CVPR 2016**) [[arxiv](https://arxiv.org/pdf/1604.02808.pdf)]
 - Rolling rotations for recognizing human actions from 3d skeletal data (**CVPR 2016**) [[paper](https://ieeexplore.ieee.org/document/7780853)]
 - Co-occurrence feature learning for skeleton based action recognition using regularized deep lstm networks (**AAAI 2016**) [[paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/download/11989/12149)]
-
-### 2015
-
 - Skeleton based action recognition with convolutional neural network (**ACPR 2015**) [[paper](https://ieeexplore.ieee.org/abstract/document/7486569)]
 - **[H-RNN]** Hierarchical recurrent neural network for skeleton based action recognition (**CVPR 2015**) [[paper](https://ieeexplore.ieee.org/document/7298714)]
 - Jointly learning heterogeneous features for rgb-d activity recognition (**CVPR 2015**) [[paper](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Hu_Jointly_Learning_Heterogeneous_2015_CVPR_paper.pdf)]
-  
-### before 2015
-
 - **[LieGroup]** Human action recognition by representing 3d skeletons as points in a lie group (**CVPR 2014**) [[paper](https://openaccess.thecvf.com/content_cvpr_2014/papers/Vemulapalli_Human_Action_Recognition_2014_CVPR_paper.pdf)]
 - Human action recognition using a temporal hierarchy of covariance descriptors on 3d joint locations (**IJCAI 2013**) [[paper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.415.8032&rep=rep1&type=pdf)]
 
@@ -196,6 +206,7 @@ The section is being continually updated. We only show results on large-scale da
 | 2020 | GCN-NAS               |     89.4      |    95.7    |
 | 2019 | 2s-SDGCN              |     89.6      |    95.7    |
 | 2019 | DGNN                  |     89.9      |    96.1    |
+| 2020 | MV-IGNET              |     89.2      |    96.3    |
 | 2020 | 4s Shift-GCN          |     90.7      |    96.5    |
 | 2020 | DecoupleGCN-DropGraph |     90.8      |    96.6    |  
 | 2020 | PA-ResGCN-B19         |     90.9      |    96.0    |
@@ -211,7 +222,8 @@ Most of existing methods have not been tested on this new dataset yet, and some 
 | 2019 | SkeleMotion + Yang *et al*          |     67.7      |    66.9     |
 | 2019 | TSRJI                               |     67.9      |    59.7     |
 | 2020 | SGN                                 |     79.2      |    81.5     |
+| 2020 | MV-IGNET                            |     83.9      |    85.6     |
 | 2020 | 4s Shift-GCN                        |     85.9      |    87.6     |
-| 2020 | DecoupleGCN-DropGraph               |     86.5      |    88.1     |    
+| 2020 | DecoupleGCN-DropGraph               |     86.5      |    88.1     |
 | 2020 | MS-G3D                              |     86.9      |    88.4     |
 | 2020 | PA-ResGCN-B19                       |     87.3      |    88.3     |
