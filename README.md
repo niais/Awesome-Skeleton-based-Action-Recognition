@@ -93,6 +93,10 @@ This section only includes the last five papers since 2018 in [arXiv.org](arXiv.
 
 - A Comparative Review of Recent Kinect-based Action Recognition Algorithms (***TIP 2019***) [[arxiv](https://arxiv.org/pdf/1906.09955.pdf)]
 
+### 2021
+
+- **[MMDGCN]** Multi-scale Mixed Dense Graph Convolution Network for Skeleton-based Action Recognition (**IEEE Access**) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9312608)]
+
 ### 2020
 
 - **[MV-IGNET]** Learning Multi-View Interactional Skeleton Graph for Action Recognition (**TPAMI 2020**) [[paper](https://ieeexplore.ieee.org/abstract/document/9234715)][[Github](https://github.com/niais/mv-ignet)]
