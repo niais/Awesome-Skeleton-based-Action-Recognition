@@ -62,9 +62,9 @@ This section only shows some popular or new datasets, other available datasets f
 
 ### arXiv
 
-- Augmented skeleton based contrastive action learning with momentum lstm for unsupervised action recognition
-- Skeleton-DML: Deep Metric Learning for Skeleton-Based One-Shot Action Recognition
-- Sparse Semi-Supervised Action Recognition with Active Learning
+- Augmented skeleton based contrastive action learning with momentum lstm for unsupervised action recognition [[arxiv](https://arxiv.org/abs/2008.00188)] [[Github](https://github.com/LZU-SIAT/AS-CAL)]
+- Skeleton-DML: Deep Metric Learning for Skeleton-Based One-Shot Action Recognition [[arxiv](https://arxiv.org/abs/2012.13823)]
+- Sparse Semi-Supervised Action Recognition with Active Learning [[arxiv](https://arxiv.org/abs/2012.01740#:~:text=Sparse%20Semi%2DSupervised%20Action%20Recognition%20with%20Active%20Learning,-Jingyuan%20Li%2C%20Eli&text=Current%20state%2Dof%2Dthe%2D,in%20annotation%20and%20mislabeled%20data.)]
 
 ### papers
 
