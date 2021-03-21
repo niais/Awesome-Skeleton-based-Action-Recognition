@@ -68,12 +68,12 @@ This section only shows some popular or new datasets, other available datasets f
 
 ### papers
 
-- Adversarial Self-Supervised Learning for Semi-Supervised 3D Action Recognition (**ECCV 2020**)
-- Unsupervised 3D Human Pose Representation with Viewpoint and Pose Disentanglement (**ECCV 2020**)
-- Predict & cluster: Unsupervised skeleton based action recognition (**CVPR 2020**)
-- Ms2l: Multi-task self-supervised learning for skeleton based action recognition (**ACMMM 2020**)
+- Adversarial Self-Supervised Learning for Semi-Supervised 3D Action Recognition (**ECCV 2020**) [[arxiv](https://arxiv.org/pdf/2007.05934.pdf)]
+- Unsupervised 3D Human Pose Representation with Viewpoint and Pose Disentanglement (**ECCV 2020**) [[arxiv](https://arxiv.org/pdf/2007.07053.pdf)][Github](https://github.com/NIEQiang001/unsupervised-human-pose)]
+- Predict & cluster: Unsupervised skeleton based action recognition (**CVPR 2020**) [[arxiv](https://arxiv.org/pdf/1911.12409.pdf)][Github](https://github.com/shlizee/Predict-Cluster)
+- Ms2l: Multi-task self-supervised learning for skeleton based action recognition (**ACMMM 2020**) [[arxiv](https://arxiv.org/pdf/2010.05599.pdf)]
 - Unsupervised feature learning of human actions as trajectories in pose embedding manifold (**WACV 2018**) [[arxiv](https://arxiv.org/abs/1812.02592)]
-- Unsupervised representation learning with long-term dynamics for skeleton based action recognition (**AAAI 2018**)
+- Unsupervised representation learning with long-term dynamics for skeleton based action recognition (**AAAI 2018**) [[arxiv](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewFile/16341/15984)] [[Github](https://github.com/jungel2star/Unsupervised-Representation-Learning-with-Long-Term-Dynamics-for-Skeleton-Based-Action-Recognition)]
 
 ## Supervised Skeleton-based Action Recognition
 
