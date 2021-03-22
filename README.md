@@ -8,6 +8,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
   - [x] supervised methods
   - [ ] semi-supervised methods
   - [ ] unsupervised methods
+  - [ ] adversarial methods
 - [ ] Leaderboard for supervised methods
   - [x] NTU RGB+D
   - [ ] NTU RGB+D 120
@@ -63,7 +64,7 @@ This section only shows some popular or new datasets, other available datasets f
 ### arXiv
 
 - Augmented skeleton based contrastive action learning with momentum lstm for unsupervised action recognition [[arxiv](https://arxiv.org/abs/2008.00188)] [[Github](https://github.com/LZU-SIAT/AS-CAL)]
-- Skeleton-DML: Deep Metric Learning for Skeleton-Based One-Shot Action Recognition [[arxiv](https://arxiv.org/abs/2012.13823)]
+- Skeleton-DML: Deep Metric Learning for Skeleton-Based One-Shot Action Recognition [[arxiv](https://arxiv.org/abs/2012.13823)][[Github](https://github.com/raphaelmemmesheimer/skeleton-dml)]
 - Sparse Semi-Supervised Action Recognition with Active Learning [[arxiv](https://arxiv.org/abs/2012.01740#:~:text=Sparse%20Semi%2DSupervised%20Action%20Recognition%20with%20Active%20Learning,-Jingyuan%20Li%2C%20Eli&text=Current%20state%2Dof%2Dthe%2D,in%20annotation%20and%20mislabeled%20data.)]
 
 ### papers
@@ -74,6 +75,11 @@ This section only shows some popular or new datasets, other available datasets f
 - Ms2l: Multi-task self-supervised learning for skeleton based action recognition (**ACMMM 2020**) [[arxiv](https://arxiv.org/pdf/2010.05599.pdf)]
 - Unsupervised feature learning of human actions as trajectories in pose embedding manifold (**WACV 2018**) [[arxiv](https://arxiv.org/abs/1812.02592)]
 - Unsupervised representation learning with long-term dynamics for skeleton based action recognition (**AAAI 2018**) [[arxiv](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewFile/16341/15984)] [[Github](https://github.com/jungel2star/Unsupervised-Representation-Learning-with-Long-Term-Dynamics-for-Skeleton-Based-Action-Recognition)]
+
+## Skeleton-based Action Recognition under Adversarial Attack
+
+- Understanding the Robustness of Skeleton-based Action Recognition under Adversarial Attack (**CVPR 2021**) [[arxiv](https://arxiv.org/pdf/2103.05347.pdf)]
+- BASAR:Black-box Attack on Skeletal Action Recognition (**CVPR 2021**) [[arxiv](https://arxiv.org/pdf/2103.05266.pdf)]
 
 ## Supervised Skeleton-based Action Recognition
 
