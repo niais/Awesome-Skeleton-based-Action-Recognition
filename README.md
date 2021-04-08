@@ -103,6 +103,7 @@ This section only includes the last five papers since 2018 in [arXiv.org](arXiv.
 ### 2021
 
 - **[MMDGCN]** Multi-scale Mixed Dense Graph Convolution Network for Skeleton-based Action Recognition (**IEEE Access**) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9312608)]
+- Quo Vadis, Skeleton Action Recognition ? [[paper](https://arxiv.org/pdf/2007.02072.pdf)] [[Github](https://github.com/skelemoa/quovadis)] (**IJCV**)
 
 ### 2020
 
