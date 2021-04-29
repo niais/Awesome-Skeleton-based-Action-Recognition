@@ -95,6 +95,7 @@ This section only includes the last five papers since 2018 in [arXiv.org](arXiv.
 - Skeleton-Based Action Recognition with Multi-Stream Adaptive Graph Convolutional Networks [[arxiv](https://arxiv.org/pdf/1912.06971.pdf)]
 - Quo Vadis, Skeleton Action Recognition ? [[arxiv](https://128.84.21.199/pdf/2007.02072.pdf)] [[Github](https://github.com/skelemoa/quovadis)]
 - SynSE: Syntactically Guided Generative Embeddings for Zero Shot Skeleton Action Recognition [[arxiv](https://arxiv.org/pdf/2101.11530.pdf)] [[Github](https://github.com/skelemoa/synse-zsl)]
+- Revisiting Skeleton-based Action Recognition [[arxiv](https://arxiv.org/pdf/2104.13586.pdf)]
 
 ### Survey
 
