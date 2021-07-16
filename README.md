@@ -68,6 +68,7 @@ This section only shows some popular or new datasets, other available datasets f
 - Skeleton-DML: Deep Metric Learning for Skeleton-Based One-Shot Action Recognition [[arxiv](https://arxiv.org/abs/2012.13823)][[Github](https://github.com/raphaelmemmesheimer/skeleton-dml)]
 - Sparse Semi-Supervised Action Recognition with Active Learning [[arxiv](https://arxiv.org/abs/2012.01740#:~:text=Sparse%20Semi%2DSupervised%20Action%20Recognition%20with%20Active%20Learning,-Jingyuan%20Li%2C%20Eli&text=Current%20state%2Dof%2Dthe%2D,in%20annotation%20and%20mislabeled%20data.)]
 - 3D Human Action Representation Learning via Cross-View Consistency Pursuit (**CVPR 2021**)[[arxiv](https://arxiv.org/pdf/2104.14466.pdf)][[Github](https://github.com/LinguoLi/CrosSCLR)] 
+- STAR: Sparse Transformer-based Action Recognition [[arxiv](https://arxiv.org/abs/2107.07089)]
 
 ### papers
 
@@ -98,7 +99,7 @@ This section only includes the last five papers since 2018 in [arXiv.org](arXiv.
 - Quo Vadis, Skeleton Action Recognition ? [[arxiv](https://128.84.21.199/pdf/2007.02072.pdf)] [[Github](https://github.com/skelemoa/quovadis)]
 - SynSE: Syntactically Guided Generative Embeddings for Zero Shot Skeleton Action Recognition [[arxiv](https://arxiv.org/pdf/2101.11530.pdf)] [[Github](https://github.com/skelemoa/synse-zsl)]
 - **[PoseC3D]** Revisiting Skeleton-based Action Recognition [[arxiv](https://arxiv.org/pdf/2104.13586.pdf)][[Github](https://github.com/open-mmlab/mmaction2/tree/master/configs/skeleton/posec3d)]
-- Leveraging Third-Order Features in Skeleton-Based Action Recognition [[arxiv](https://arxiv.org/pdf/2105.01563.pdf)][[Github](https://github.com/ZhenyueQin/Angular-Skeleton-Encoding)] [[Github](https://github.com/ZhenyueQin/Angular-Skeleton-Encoding)]
+- Leveraging Third-Order Features in Skeleton-Based Action Recognition [[arxiv](https://arxiv.org/pdf/2105.01563.pdf)][[Github](https://github.com/ZhenyueQin/Angular-Skeleton-Encoding)] 
 
 ### Survey
 
