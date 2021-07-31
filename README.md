@@ -110,6 +110,7 @@ This section only includes the last five papers since 2018 in [arXiv.org](arXiv.
 - **[MMDGCN]** Multi-scale Mixed Dense Graph Convolution Network for Skeleton-based Action Recognition (**IEEE Access**) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9312608)]
 - Quo Vadis, Skeleton Action Recognition ? [[paper](https://arxiv.org/pdf/2007.02072.pdf)] [[Github](https://github.com/skelemoa/quovadis)] (**IJCV**)
 - Constructing Stronger and Faster Baselines for Skeleton-based Action Recognition [[paper](https://arxiv.org/pdf/2106.15125.pdf)] [[Github](https://github.com/yfsong0709/EfficientGCNv1)] (submitted to **TPAMI**)
+- **[CTR-GCN]** Channel-wise Topology Refinement Graph Convolution for Skeleton-Based Action Recognition [[paper](https://arxiv.org/pdf/2107.12213.pdf)] [[Github](https://github.com/Uason-Chen/CTR-GCN)] (**ICCV 2021**)
 
 ### 2020
 
@@ -231,6 +232,7 @@ The section is being continually updated. We only show results on large-scale da
 | 2020 | PA-ResGCN-B19         |     90.9      |    96.0    |
 | 2020 | MS-G3D                |     91.5      |    96.2    |
 | 2021 | EfficientGCN-B4       |     91.7      |    95.7    |
+| 2021 | CTR-GCN               |     92.4      |    96.8    |
 
 ### NTU-RGB+D 120
 
@@ -248,3 +250,4 @@ Most of existing methods have not been tested on this new dataset yet, and some 
 | 2020 | MS-G3D                              |     86.9      |    88.4     |
 | 2020 | PA-ResGCN-B19                       |     87.3      |    88.3     |
 | 2021 | EfficientGCN-B4                     |     88.3      |    89.1     |
+| 2021 | CTR-GCN                             |     88.9      |    90.6     |
