@@ -72,6 +72,7 @@ This section only shows some popular or new datasets, other available datasets f
 
 ### papers
 
+-  Skeleton-Contrastive 3D Action Representation Learning (**ACM MM 2021**) [[arxiv](https://arxiv.org/pdf/2007.05934.pdf)] [[Github](https://github.com/fmthoker/skeleton-contrast)]
 - Adversarial Self-Supervised Learning for Semi-Supervised 3D Action Recognition (**ECCV 2020**) [[arxiv](https://arxiv.org/pdf/2007.05934.pdf)]
 - Unsupervised 3D Human Pose Representation with Viewpoint and Pose Disentanglement (**ECCV 2020**) [[arxiv](https://arxiv.org/pdf/2007.07053.pdf)] [[Github](https://github.com/NIEQiang001/unsupervised-human-pose)]
 - Predict & cluster: Unsupervised skeleton based action recognition (**CVPR 2020**) [[arxiv](https://arxiv.org/pdf/1911.12409.pdf)] [[Github](https://github.com/shlizee/Predict-Cluster)]
