@@ -68,7 +68,7 @@ This section only shows some popular or new datasets, other available datasets f
 - Skeleton-DML: Deep Metric Learning for Skeleton-Based One-Shot Action Recognition [[arxiv](https://arxiv.org/abs/2012.13823)][[Github](https://github.com/raphaelmemmesheimer/skeleton-dml)]
 - Sparse Semi-Supervised Action Recognition with Active Learning [[arxiv](https://arxiv.org/abs/2012.01740#:~:text=Sparse%20Semi%2DSupervised%20Action%20Recognition%20with%20Active%20Learning,-Jingyuan%20Li%2C%20Eli&text=Current%20state%2Dof%2Dthe%2D,in%20annotation%20and%20mislabeled%20data.)]
 - 3D Human Action Representation Learning via Cross-View Consistency Pursuit (**CVPR 2021**)[[arxiv](https://arxiv.org/pdf/2104.14466.pdf)][[Github](https://github.com/LinguoLi/CrosSCLR)] 
-- STAR: Sparse Transformer-based Action Recognition [[arxiv](https://arxiv.org/abs/2107.07089)]
+- STAR: Sparse Transformer-based Action Recognition [[arxiv](https://arxiv.org/abs/2107.07089)] [[Github](https://github.com/imj2185/STAR)]
 
 ### papers
 
