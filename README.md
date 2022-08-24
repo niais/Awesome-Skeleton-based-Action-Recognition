@@ -49,6 +49,7 @@ portal contains
 
 - *(New! 2021)* **PoseC3D 2D Skeleton Dataset (FineGYM, NTURGB-D, Kinetics, Volleyball)** [[arxiv](https://arxiv.org/pdf/2104.13586.pdf), [Github](https://github.com/kennymckormick/pyskl)]
 - *(New! 2021)* **NTU60-X Dataset** [[arxiv](https://arxiv.org/pdf/2101.11529.pdf), [Github](https://github.com/skelemoa/ntu-x)]
+
 - *(New! 2019)* **NTU RGB+D 120 Dataset** [[Homepage](http://rose1.ntu.edu.sg/datasets/actionrecognition.asp),[Github](https://github.com/shahroudy/NTURGB-D)]
 - NTU RGB+D Dataset [[Homepage](http://rose1.ntu.edu.sg/datasets/actionrecognition.asp),[Github](https://github.com/shahroudy/NTURGB-D)]
 - (2018) VARYING-VIEW RGB-D ACTION DATASET [[arxiv](https://arxiv.org/pdf/1904.10681.pdf), [Github](https://github.com/HRI-UESTC/CFM-HRI-RGB-D-action-database)]
@@ -64,6 +65,7 @@ This section only shows some popular or new datasets, other available datasets f
 
 ### arXiv
 
+- **[Kinetic-GAN]** Generative Adversarial Graph Convolutional Networks for Human Action Synthesis (**WACV 2022**)[[arxiv](https://arxiv.org/abs/2110.11191)] [[Github](https://github.com/DegardinBruno/Kinetic-GAN)]
 - Augmented skeleton based contrastive action learning with momentum lstm for unsupervised action recognition [[arxiv](https://arxiv.org/abs/2008.00188)] [[Github](https://github.com/LZU-SIAT/AS-CAL)]
 - Skeleton-DML: Deep Metric Learning for Skeleton-Based One-Shot Action Recognition [[arxiv](https://arxiv.org/abs/2012.13823)][[Github](https://github.com/raphaelmemmesheimer/skeleton-dml)]
 - Sparse Semi-Supervised Action Recognition with Active Learning [[arxiv](https://arxiv.org/abs/2012.01740#:~:text=Sparse%20Semi%2DSupervised%20Action%20Recognition%20with%20Active%20Learning,-Jingyuan%20Li%2C%20Eli&text=Current%20state%2Dof%2Dthe%2D,in%20annotation%20and%20mislabeled%20data.)]
@@ -108,6 +110,8 @@ This section only includes the last five papers since 2018 in [arXiv.org](arXiv.
 ### 2022
 
 - **[PoseC3D]** Revisiting Skeleton-based Action Recognition [[paper](https://arxiv.org/pdf/2104.13586.pdf)] [[Code](https://github.com/kennymckormick/pyskl)] (CVPR 2022 Oral)
+- **[PSUMNet]** Unified Modality Part Streams are All You Need for Efficient Pose-based Action Recognition (ECCV 2022 WCPA) [[paper](https://arxiv.org/pdf/2208.05775.pdf)][[Github](https://github.com/skelemoa/psumnet)]
+
 
 ### 2021
 
@@ -238,6 +242,7 @@ The section is being continually updated. We only show results on large-scale da
 | 2021 | EfficientGCN-B4       |     91.7      |    95.7    |
 | 2021 | CTR-GCN               |     92.4      |    96.8    |
 | 2022 | PoseC3D               |     94.1      |    97.1    |
+| 2022 | PSUMNet               |     92.9      |    96.7    |
 
 ### NTU-RGB+D 120
 
@@ -257,4 +262,4 @@ Most of existing methods have not been tested on this new dataset yet, and some 
 | 2020 | PA-ResGCN-B19                       |     87.3      |    88.3     |
 | 2021 | EfficientGCN-B4                     |     88.3      |    89.1     |
 | 2021 | CTR-GCN                             |     88.9      |    90.6     |
-
+| 2022 | PSUMNet                             |     89.4      |    90.6     |
