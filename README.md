@@ -47,8 +47,9 @@ portal contains
 
 ## Datasets
 
-- *(New! 2021)* **PoseC3D 2D Skeleton Dataset (FineGYM, NTURGB-D, Kinetics, Volleyball)** [[arxiv](https://arxiv.org/pdf/2104.13586.pdf), [Github](https://github.com/open-mmlab/mmaction2/tree/master/tools/data/skeleton)]
-- *(New! 2021)* **NTU-X Dataset** [[arxiv](https://arxiv.org/pdf/2101.11529.pdf), [Github](https://github.com/skelemoa/ntu-x)]
+- *(New! 2021)* **PoseC3D 2D Skeleton Dataset (FineGYM, NTURGB-D, Kinetics, Volleyball)** [[arxiv](https://arxiv.org/pdf/2104.13586.pdf), [Github](https://github.com/kennymckormick/pyskl)]
+- *(New! 2021)* **NTU60-X Dataset** [[arxiv](https://arxiv.org/pdf/2101.11529.pdf), [Github](https://github.com/skelemoa/ntu-x)]
+
 - *(New! 2019)* **NTU RGB+D 120 Dataset** [[Homepage](http://rose1.ntu.edu.sg/datasets/actionrecognition.asp),[Github](https://github.com/shahroudy/NTURGB-D)]
 - NTU RGB+D Dataset [[Homepage](http://rose1.ntu.edu.sg/datasets/actionrecognition.asp),[Github](https://github.com/shahroudy/NTURGB-D)]
 - (2018) VARYING-VIEW RGB-D ACTION DATASET [[arxiv](https://arxiv.org/pdf/1904.10681.pdf), [Github](https://github.com/HRI-UESTC/CFM-HRI-RGB-D-action-database)]
@@ -100,7 +101,6 @@ This section only includes the last five papers since 2018 in [arXiv.org](arXiv.
 - Skeleton-Based Action Recognition with Multi-Stream Adaptive Graph Convolutional Networks [[arxiv](https://arxiv.org/pdf/1912.06971.pdf)]
 - Quo Vadis, Skeleton Action Recognition ? [[arxiv](https://128.84.21.199/pdf/2007.02072.pdf)] [[Github](https://github.com/skelemoa/quovadis)]
 - SynSE: Syntactically Guided Generative Embeddings for Zero Shot Skeleton Action Recognition [[arxiv](https://arxiv.org/pdf/2101.11530.pdf)] [[Github](https://github.com/skelemoa/synse-zsl)]
-- **[PoseC3D]** Revisiting Skeleton-based Action Recognition [[arxiv](https://arxiv.org/pdf/2104.13586.pdf)][[Github](https://github.com/open-mmlab/mmaction2/tree/master/configs/skeleton/posec3d)]
 - Leveraging Third-Order Features in Skeleton-Based Action Recognition [[arxiv](https://arxiv.org/pdf/2105.01563.pdf)][[Github](https://github.com/ZhenyueQin/Angular-Skeleton-Encoding)] 
 
 ### Survey
@@ -109,7 +109,9 @@ This section only includes the last five papers since 2018 in [arXiv.org](arXiv.
 
 ### 2022
 
+- **[PoseC3D]** Revisiting Skeleton-based Action Recognition [[paper](https://arxiv.org/pdf/2104.13586.pdf)] [[Code](https://github.com/kennymckormick/pyskl)] (CVPR 2022 Oral)
 - **[PSUMNet]** Unified Modality Part Streams are All You Need for Efficient Pose-based Action Recognition (ECCV 2022 WCPA) [[paper](https://arxiv.org/pdf/2208.05775.pdf)][[Github](https://github.com/skelemoa/psumnet)]
+
 
 ### 2021
 
@@ -239,6 +241,7 @@ The section is being continually updated. We only show results on large-scale da
 | 2020 | MS-G3D                |     91.5      |    96.2    |
 | 2021 | EfficientGCN-B4       |     91.7      |    95.7    |
 | 2021 | CTR-GCN               |     92.4      |    96.8    |
+| 2022 | PoseC3D               |     94.1      |    97.1    |
 | 2022 | PSUMNet               |     92.9      |    96.7    |
 
 ### NTU-RGB+D 120
@@ -255,8 +258,8 @@ Most of existing methods have not been tested on this new dataset yet, and some 
 | 2020 | 4s Shift-GCN                        |     85.9      |    87.6     |
 | 2020 | DecoupleGCN-DropGraph               |     86.5      |    88.1     |
 | 2020 | MS-G3D                              |     86.9      |    88.4     |
+| 2022 | PoseC3D                             |     86.9      |    90.3     |
 | 2020 | PA-ResGCN-B19                       |     87.3      |    88.3     |
 | 2021 | EfficientGCN-B4                     |     88.3      |    89.1     |
 | 2021 | CTR-GCN                             |     88.9      |    90.6     |
 | 2022 | PSUMNet                             |     89.4      |    90.6     |
-
