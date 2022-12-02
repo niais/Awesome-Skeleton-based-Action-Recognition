@@ -110,6 +110,7 @@ This section only includes the last five papers since 2018 in [arXiv.org](arXiv.
 ### 2022
 
 - **[PoseC3D]** Revisiting Skeleton-based Action Recognition [[paper](https://arxiv.org/pdf/2104.13586.pdf)] [[Code](https://github.com/kennymckormick/pyskl)] (CVPR 2022 Oral)
+- **[InfoGCN]** InfoGCN: Representation Learning for Human Skeleton-Based Action Recognition [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Chi_InfoGCN_Representation_Learning_for_Human_Skeleton-Based_Action_Recognition_CVPR_2022_paper.pdf)] [[Github](https://github.com/stnoah1/infogcn)] (CVPR 2022)
 - **[PSUMNet]** Unified Modality Part Streams are All You Need for Efficient Pose-based Action Recognition (ECCV 2022 WCPA) [[paper](https://arxiv.org/pdf/2208.05775.pdf)][[Github](https://github.com/skelemoa/psumnet)]
 
 
